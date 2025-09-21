@@ -7,7 +7,7 @@ const Header = () => (
         <Scale className="w-8 h-8 text-primary" />
       </div>
       <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl font-headline">
-        Legal Clarity
+        Demystify
       </h1>
     </div>
     <p className="max-w-3xl mx-auto text-lg text-muted-foreground">
