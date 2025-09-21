@@ -1,0 +1,7 @@
+[build]
+  base = "demystify_ui_mock1"
+  command = "npm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
