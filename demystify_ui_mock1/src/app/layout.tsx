@@ -15,8 +15,11 @@ const lexend = Lexend({
 
 
 export const metadata: Metadata = {
-  title: 'Legal Clarity',
-  description: 'AI-powered legal document analysis',
+  title: "Legal Clarity",
+  description: "AI-powered legal document analysis",
+  icons: {
+    icon: "/favicon.ico", // or "/favicon.png" or "/favicon.svg"
+  },
 };
 
 export default function RootLayout({
